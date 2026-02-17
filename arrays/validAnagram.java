@@ -1,3 +1,4 @@
+
 class Solution {
     public boolean isAnagramn(String s, String t){
         //checkign to se iof both strigns re same length becuase if not, return false since they cant be anagaram
